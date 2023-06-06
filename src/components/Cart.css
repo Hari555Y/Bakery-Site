@@ -1,0 +1,16 @@
+.checkout-button {
+    background-color: rgb(255, 72, 0);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin: 0 auto;
+    display: block;
+  }
+
+.checkout-button:hover{
+    background-color: red;
+    color: black;
+    cursor: pointer;
+
+  }
